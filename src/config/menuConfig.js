@@ -32,7 +32,7 @@ const menuList = [
     ],
   },
   {
-    title: "负载预测",
+    title: "负荷预测",
     path: "/load-forcast",
     icon: "cluster",
     children: [
